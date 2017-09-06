@@ -1,0 +1,42 @@
+﻿
+#mainDiv {
+    height: 250px;
+}
+
+#searchDiv {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);    
+}
+
+html {
+    font-size: medium;
+}
+
+#resultDiv {
+    top: 20%;
+    left: 50%;
+    height: 500px;    
+}
+
+.articleDiv {
+    height: auto;
+    border: 2px solid;
+    border-color:deepskyblue;
+    margin-bottom: 5px;
+}
+
+#buttonRow {
+    margin-top: 30px;
+}
+
+input {
+    height: 36px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
